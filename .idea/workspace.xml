@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59bcf9ec-7c75-41f6-baa4-de2a252274ef" name="Default Changelist" comment="" />
+    <list default="true" id="59bcf9ec-7c75-41f6-baa4-de2a252274ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/Merger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/PriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/PriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$Freq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$Freq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$MaxHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$MaxHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/SegmentTree.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BTSMap">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="BSTMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Play_with_Data_Structures.Demo09Map.BSTMap" />
       <module name="Data-Structures-Algorithms" />
@@ -79,6 +89,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Play_with_Data_Structures.Demo09Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Play_with_Data_Structures.Demo12SegmentTree.Main" />
+      <module name="Data-Structures-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Play_with_Data_Structures.Demo12SegmentTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,9 +153,11 @@
       <item itemvalue="Application.BSTMap" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BSTMap" />
@@ -165,7 +190,7 @@
       <workItem from="1583846752445" duration="1906000" />
       <workItem from="1584150036873" duration="6978000" />
       <workItem from="1584264161371" duration="590000" />
-      <workItem from="1584456451035" duration="371000" />
+      <workItem from="1584456451035" duration="3187000" />
     </task>
     <servers />
   </component>
