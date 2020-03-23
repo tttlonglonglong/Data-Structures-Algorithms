@@ -2,14 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59bcf9ec-7c75-41f6-baa4-de2a252274ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/Merger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/NumArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/NumArray3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/BSTSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/FileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/MapSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/WordDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo14UnionFind/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo14UnionFind/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo14UnionFind/UnionFind1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo14UnionFind/UnionFind2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo14UnionFind/UnionFind3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo14UnionFind/UnionFind4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo14UnionFind/UnionFind5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/PriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/PriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$Freq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$Freq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$MaxHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution$MaxHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo10MaxHeap/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo12SegmentTree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo12SegmentTree/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo12SegmentTree/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data-Structures-Algorithms/Play_with_Data_Structures/Demo12SegmentTree/SegmentTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo12SegmentTree/SegmentTree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,26 +50,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo11PriorityQueueInJava" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo15AVLTree" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo11PriorityQueueInJava" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/Play_with_Data_Structures" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo05Recursive" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Play_with_Data_Structures.Demo10MaxHeap" />
-      <recent name="Play_with_Data_Structures.Demo09Map" />
-      <recent name="Play_with_Data_Structures.Demo08SetAndMap" />
-      <recent name="Play_with_Data_Structures.Demo04LinkedList" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Play_with_Data_Structures.Demo15AVLTree" />
+      <recent name="Play_with_Data_Structures.Demo14UnionFind" />
+      <recent name="Play_with_Data_Structures.Demo13Trie" />
+      <recent name="Play_with_Data_Structures.Demo12SegmentTree" />
+      <recent name="Play_with_Data_Structures.Demo10MaxHeap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo15AVLTree" />
+      <recent name="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie" />
+      <recent name="$PROJECT_DIR$/src/Play_with_Data_Structures/Demo11PriorityQueueInJava" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/Play_with_Data_Structures" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -69,39 +85,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="BSTMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Play_with_Data_Structures.Demo09Map.BSTMap" />
-      <module name="Data-Structures-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Play_with_Data_Structures.Demo09Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BTSMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Play_with_Data_Structures.Demo09Map.BTSMap" />
-      <module name="Data-Structures-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Play_with_Data_Structures.Demo09Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Play_with_Data_Structures.Demo12SegmentTree.Main" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Play_with_Data_Structures.Demo12SegmentTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Play_with_Data_Structures.Demo13Trie.Main" />
+      <module name="Data-Structures-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Play_with_Data_Structures.Demo13Trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Play_with_Data_Structures.Demo14UnionFind.Main" />
+      <module name="Data-Structures-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Play_with_Data_Structures.Demo14UnionFind.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,19 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BTSMap" />
-      <item itemvalue="Application.BSTMap" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BSTMap" />
-        <item itemvalue="Application.BTSMap" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +206,11 @@
       <workItem from="1583846752445" duration="1906000" />
       <workItem from="1584150036873" duration="6978000" />
       <workItem from="1584264161371" duration="590000" />
-      <workItem from="1584456451035" duration="3187000" />
+      <workItem from="1584456451035" duration="3614000" />
+      <workItem from="1584617959584" duration="11476000" />
+      <workItem from="1584759448274" duration="5168000" />
+      <workItem from="1584792782411" duration="7694000" />
+      <workItem from="1584929310487" duration="816000" />
     </task>
     <servers />
   </component>
@@ -202,7 +222,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -218,6 +240,11 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Play_with_Data_Structures/Demo13Trie/WordDictionary.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
